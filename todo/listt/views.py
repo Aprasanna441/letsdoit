@@ -2,7 +2,7 @@ from django.shortcuts import render
 
 #Create your views here.
 from ast import Not
-from asyncio.windows_events import NULL
+
 from django.http import HttpResponse, HttpResponseRedirect
 from django.shortcuts import render,redirect
 from django.contrib.auth.models import User
