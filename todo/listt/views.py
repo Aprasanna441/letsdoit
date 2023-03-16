@@ -1,7 +1,7 @@
 from django.shortcuts import render
 
 #Create your views here.
-from ast import Not
+
 
 from django.http import HttpResponse, HttpResponseRedirect
 from django.shortcuts import render,redirect
